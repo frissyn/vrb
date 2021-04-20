@@ -1,0 +1,16 @@
+name: vrb
+version: 0.0.1
+
+authors:
+    - frissyn
+
+description: |
+    The Viper Reference Book
+
+dependencies:
+    kemal:
+        github: kemalcr/kemal
+        version: "~> 1.0.0"
+
+license: MIT
+crystal: 1.0.0

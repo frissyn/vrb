@@ -1,0 +1,13 @@
+# Crystal Ignores
+# ---------------
+/lib/
+/.shards/
+*.dwarf
+/shard.lock
+
+# Environment Ignores
+# -------------------
+.env
+.venv
+.replit
+main.cr

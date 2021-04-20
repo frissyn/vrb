@@ -1,0 +1,518 @@
+{
+    "ascent": {
+        "executes": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        },
+        "lineups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ]
+        },
+        "setups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        }
+    },
+    "bind": {
+        "executes": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        },
+        "lineups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ]
+        },
+        "setups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        }
+    },
+    "haven": {
+        "executes": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "C": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        },
+        "lineups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ],
+            "C": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        },
+        "setups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        }
+    },
+    "icebox": {
+        "executes": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        },
+        "lineups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ]
+        },
+        "setups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        }
+    },
+    "split": {
+        "executes": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        },
+        "lineups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                    ]
+                }
+            ]
+        },
+        "setups": {
+            "A": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here",
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ],
+            "B": [
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                },
+                {
+                    "guides": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ],
+                    "results": [
+                        "https://via.placeholder.com/800x450?text=Screenshot+Here"
+                    ]
+                }
+            ]
+        }
+    }
+}

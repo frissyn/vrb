@@ -1,0 +1,6 @@
+<h1>The Viper Reference Book <h6>Created by <a href="//github.com/frissyn">frissyn</a></h6></h1><br>
+<% MAPS.each do |map| %>
+    <a href="/map/<%= map %>">
+        <button style="width: 100%"><%= map.capitalize %></button>
+    </a>
+<% end %>

@@ -1,6 +1,8 @@
-<h1>The Viper Reference Book <h6>Created by <a href="//github.com/frissyn">frissyn</a></h6></h1><br>
+<h1><a href="//github.com/frissyn/vrb">The Viper Reference Book</a></h1>
+<p><b>My personal collection of lineups, executes, and tips & tricks for Viper from VALORANT.Created by <a href="//github.com/frissyn">frissyn</a></b></p><hr>
+
 <% MAPS.each do |map| %>
-    <a href="/map/<%= map %>">
-        <button style="width: 100%"><%= map.capitalize %></button>
-    </a>
+    <a href="/map/<%= map %>"><button style="width:100%;min-height:75px">
+        <h3><%= map.capitalize %></h3>
+    </button></a>
 <% end %>

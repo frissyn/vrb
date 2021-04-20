@@ -2,6 +2,7 @@ require "kemal"
 
 module App
     MAPS = ["ascent", "bind", "haven", "icebox", "split"]
+    SECTIONS = ["executes", "lineups", "setups"]
     
     class ApplicationController
         macro ecr(filename)
@@ -9,10 +10,7 @@ module App
         end
 
         get "/" do |env|
-<<<<<<< HEAD
             maps = MAPS
-=======
->>>>>>> 60a997b3c6512574eadd5c008cdc23c53ab7ec32
             ecr "index"
         end
     end

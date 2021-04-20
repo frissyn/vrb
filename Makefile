@@ -1,6 +1,6 @@
 export TARGET_FILE = ./app/runner.cr
 export TARGET_OUTPUT = ./bin/application
-export SOURCE_FILES = $(shell find . -name '*.cr' -name '*.ecr')
+export SOURCE_FILES = $(shell find . -name '*.cr')
 
 .PHONY: run
 run: $(TARGET_OUTPUT)

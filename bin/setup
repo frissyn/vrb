@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+crystal --version
+returned=$?
+
+if [ $returned -eq 0 ]; then
+    shards --ignore-crystal-version install
+else
+    echo "Crystal is not installed. 1.0.0 or higher is required."
+fi
+
+exit $returned

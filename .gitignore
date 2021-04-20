@@ -11,3 +11,4 @@
 .venv
 .replit
 main.cr
+bin/application

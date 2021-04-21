@@ -1,0 +1,17 @@
+<h1><%= mapName %>&nbsp;References</h1>
+<% mapData.each do |sec, secData| %>
+    <button id="sec-<%= sec %>" style="width:100%;text-align: left">
+    <h2><%= sec.capitalize %></h2><hr>
+    <% secData.as_h.each do |site, siteData| %>
+        <h3><%= site.capitalize %>&nbsp;Site</h3>
+        <table class="tg">
+        <thead><tr><th>Index</th><th>Guide(s)</th><th>Result</th></tr></thead>
+        <tbody><% siteData.as_a.each_index do |refInx| %><tr>
+            <td><% refData = siteData[refInx] %><h3>#<%= refInx + 1 %></h3></td>
+            <td><% refData["guides"].as_a.each do |uri| %><img src="<%= uri %>"><% end %></td>
+            <td><% refData["results"].as_a.each do |uri| %><img src="<%= uri %>"><% end %></td>
+        </tr><% end %></tbody>
+        </table>
+    <% end %>
+    </button>
+<% end %>
